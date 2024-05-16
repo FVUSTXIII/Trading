@@ -10,6 +10,7 @@ indicadores claves gestionados por las bolsas mundiales Se calculan a partir de 
 
 S&P BMV IPC
 
+
 Standard & Purse 
 
 Bolsa Mexicana de Valores
