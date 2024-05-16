@@ -1,0 +1,4 @@
+- Metales
+- Energeticos
+- Softs
+- Agricultura 

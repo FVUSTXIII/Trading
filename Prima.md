@@ -1,0 +1,1 @@
+costo del contrato y me permite esta cantidad de acciones y si mi contrato pierde valor lo mas que puedo perder es el valor del contrato 
