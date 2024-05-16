@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renta variable.md",
+                "file": "Renta fija.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Renta variable.md",
+                "file": "Renta fija.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Renta variable.md",
+                "file": "Renta fija.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Renta variable.md"
+                "file": "Renta fija.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   "active": "fbfef498ed264b33",
   "lastOpenFiles": [
     "Rentabilidad.md",
-    "Renta variable.md",
+    "Renta fija.md",
     "Relacion Riesgo-Rendimiento.md",
+    "Renta variable.md",
     "Unorganized notes.md",
     "Materias Primas.md",
     "ETF.md",
@@ -190,7 +191,6 @@
     "Financieros",
     "Economìa",
     "Mercados",
-    "INFLACION.md",
-    "Acciones.md"
+    "INFLACION.md"
   ]
 }
