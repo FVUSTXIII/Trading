@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized notes.md",
+                "file": "Renta variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized notes.md",
+                "file": "Renta variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized notes.md",
+                "file": "Renta variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized notes.md"
+                "file": "Renta variable.md"
               }
             }
           }
@@ -160,17 +160,19 @@
   },
   "active": "fbfef498ed264b33",
   "lastOpenFiles": [
+    "Rentabilidad.md",
+    "Renta variable.md",
+    "Relacion Riesgo-Rendimiento.md",
+    "Unorganized notes.md",
     "Materias Primas.md",
     "ETF.md",
     "Paises.md",
-    "Unorganized notes.md",
     "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Financieros/Inversion Real.md",
     "Financieros/Inversion Bursatil.md",
-    "Relacion Riesgo-Rendimiento.md",
     "Perfil de inversion.md",
     "BPA.md",
     "Riesgo.md",
@@ -179,7 +181,6 @@
     "Moderado.md",
     "Plazo.md",
     "Liquidez.md",
-    "Rentabilidad.md",
     "Financieros/Inversion Financiera.md",
     "Koyfin.md",
     "Trading Inst",
@@ -190,7 +191,6 @@
     "Economìa",
     "Mercados",
     "INFLACION.md",
-    "Acciones.md",
-    "Portafolio de acciones.md"
+    "Acciones.md"
   ]
 }
