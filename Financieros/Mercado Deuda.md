@@ -41,3 +41,4 @@ CETES DIRECTO
 
 Titulos de deuda
 
+Mercado deuda = Mayor Plazo = Mayor rendimiento
