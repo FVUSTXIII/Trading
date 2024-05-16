@@ -110,3 +110,14 @@ Consumo discrecional
 Consumo defensivo
 
 Global x
+
+
+Consejos practicos para antes de invertir 
+
+Define un objetivo financiero 
+
+Conoce tu perfil de inversionista
+
+Asesórate con un experto
+
+Educate financieramente
