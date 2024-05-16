@@ -1,0 +1,1 @@
+Compramos parte accionaria de una empresa

@@ -1,0 +1,1 @@
+Pueden ser de materias primas, acciones, divisas, etc

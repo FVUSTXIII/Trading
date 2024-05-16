@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc811c545b92a388",
+        "id": "85dc65516a62bc86",
         "type": "tabs",
         "children": [
           {
-            "id": "fbfef498ed264b33",
+            "id": "7322ff9c655fcd0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,10 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbfef498ed264b33",
+  "active": "7322ff9c655fcd0c",
   "lastOpenFiles": [
-    "Unorganized notes.md",
+    "Forex.md",
     "Financieros/Mercado Deuda.md",
+    "Bonos.md",
+    "Derivados.md",
+    "Capitales.md",
+    "Financieros/Inversion Real.md",
+    "Financieros/Inversion Financiera.md",
+    "Apalancamiento.md",
+    "Agresivo.md",
+    "Acciones.md",
+    "Unorganized notes.md",
     "Relacion Riesgo-Rendimiento.md",
     "Rentabilidad.md",
     "Renta fija.md",
@@ -173,20 +182,11 @@
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Financieros/Inversion Real.md",
     "Financieros/Inversion Bursatil.md",
     "Perfil de inversion.md",
     "BPA.md",
     "Riesgo.md",
-    "Agresivo.md",
-    "Conservador.md",
-    "Moderado.md",
-    "Plazo.md",
-    "Liquidez.md",
-    "Financieros/Inversion Financiera.md",
-    "Koyfin.md",
     "Trading Inst",
-    "TradingView.md",
     "Portafolio",
     "Tecnico",
     "Financieros",

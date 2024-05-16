@@ -1,0 +1,1 @@
+Deuda bancaria, corporativa, etc
