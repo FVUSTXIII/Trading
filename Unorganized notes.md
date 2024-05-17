@@ -137,10 +137,10 @@ apalancados a la inversa
 ETFs mas conocidos
 
 Indices bursátiles USA mas importantes
-
-SP500 -------------------->SPY(SPDR)
-Dow Jones 30------------>DIA Dow JOnes Industrial Average
-Nasdaq 100 -------------> QQQ(Invesco)
+						Inversion mediano-largo plazo
+SP500 -------------------->SPY(SPDR)-------------------------------->
+Dow Jones 30------------>DIA Dow JOnes Industrial Average------>
+Nasdaq 100 -------------> QQQ(Invesco)---------------------------->
 
 
 Etf copia comportamiento de indice bursatil
