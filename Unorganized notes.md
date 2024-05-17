@@ -171,3 +171,5 @@ SPLIT: Aumentar el numero de acciones para disminuir el precio  de la accion
 Market Shift: Elimina un piso y se convirte un techo
 
 COBERTURA
+
+Interactive Brockers
