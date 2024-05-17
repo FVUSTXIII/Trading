@@ -161,4 +161,6 @@ Apalancado no se puede comprar fraccionado ademas es mas riesgoso
 
 SPLITS
 
-SPLIT INVERSO reducir el numero de acciones en circulacion para aumentr el pre
+SPLIT INVERSO reducir el numero de acciones en circulacion para aumentr el precio de la accion 
+
+SPLIT: Aumentar el numero de acciones para disminuir el precio  de la accion 
