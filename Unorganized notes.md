@@ -167,3 +167,5 @@ SPLITS
 SPLIT INVERSO reducir el numero de acciones en circulacion para aumentr el precio de la accion 
 
 SPLIT: Aumentar el numero de acciones para disminuir el precio  de la accion 
+
+Market Shift: Elimina un piso y se convirte un techo
