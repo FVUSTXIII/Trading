@@ -126,3 +126,9 @@ Momentum
 
 hay un momento para todo
 
+Comprar cuando el precio sea barato
+
+EFTS direccionales 
+SOXS TECS
+
+apalancados a la inversa
