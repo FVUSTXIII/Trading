@@ -137,12 +137,15 @@ apalancados a la inversa
 ETFs mas conocidos
 
 Indices bursátiles USA mas importantes
-						Inversion mediano-largo plazo
-SP500 -------------------->SPY(SPDR)-------------------------------->
+						Inversion mediano-largo plazo             Inversiones corto plazo      ESPECULACION
+SP500 -------------------->SPY(SPDR)-------------------------------->  ETFS apalancados---------> ETFS Apalancados a la inversa
 Dow Jones 30------------>DIA Dow JOnes Industrial Average------>
-Nasdaq 100 -------------> QQQ(Invesco)---------------------------->
+Nasdaq 100 -------------> QQQ(Invesco)----------------------------> TQQQ-------------------->SQQQ
 
+si el activo subyacente baja. el etf apalancado inv sube
 
+compra = LARGO = Long = Call
+venta = Corto = Short = PUT
 Etf copia comportamiento de indice bursatil
 
 indice bursatil es un calculo matematico para evaluar el desempeño de un grupo de acciones
