@@ -155,3 +155,10 @@ BM/IPC 35 --------> NAFTRAC (Nacional Financiera)
 
 Si se quiere hacer un portafolio lo mas facil es indexarse
 
+Indexado se puede comprar fraccionado
+
+Apalancado no se puede comprar fraccionado ademas es mas riesgoso
+
+SPLITS
+
+SPLIT INVERSO reducir el numero de acciones en circulacion para aumentr el pre
