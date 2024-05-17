@@ -143,3 +143,15 @@ Dow Jones 30------------>DIA Dow JOnes Industrial Average
 Nasdaq 100 -------------> QQQ(Invesco)
 
 
+Etf copia comportamiento de indice bursatil
+
+indice bursatil es un calculo matematico para evaluar el desempeño de un grupo de acciones
+
+Indice bursatil es un actuvo subyacente 
+
+Si yo quiero invertir en un indice bursatil debo invertir a traves de un EtF indexado
+
+BM/IPC 35 --------> NAFTRAC (Nacional Financiera)
+
+Si se quiere hacer un portafolio lo mas facil es indexarse
+
