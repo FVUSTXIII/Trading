@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15327686410dc329",
+        "id": "1557cbcdd40654e8",
         "type": "tabs",
         "children": [
           {
-            "id": "a056cca34744e6fb",
+            "id": "a2c0e28caaae2b9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a056cca34744e6fb",
+  "active": "a2c0e28caaae2b9b",
   "lastOpenFiles": [
-    "Financieros/Mercado Capitales.md",
     "Liquidez.md",
     "CETES.md",
     "Financieros/Mercado Deuda.md",
+    "Financieros/Mercado Capitales.md",
+    "Renta variable.md",
     "Forex.md",
     "Bonos.md",
     "Derivados.md",
@@ -177,7 +178,6 @@
     "Relacion Riesgo-Rendimiento.md",
     "Rentabilidad.md",
     "Renta fija.md",
-    "Renta variable.md",
     "Materias Primas.md",
     "ETF.md",
     "Paises.md",

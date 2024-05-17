@@ -16,4 +16,6 @@ El mercado de capitales está diseñado para que los inversionistas adquieran ac
 
 Características: 
 
-* instrumentos de  
+* instrumentos de [[Renta variable]] 
+* Se rige por la oferta y la demanda 
+* Mercado secundario (a través de una casa de bolsa)
