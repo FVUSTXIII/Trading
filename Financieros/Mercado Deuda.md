@@ -22,7 +22,7 @@ En qué puedo inventir
 
 [[Bonos]]
 
-* CETES
+* [[CETES]]
 * Bonos
 
 
@@ -42,5 +42,7 @@ CETES DIRECTO
 Titulos de deuda
 
 Mercado deuda = Mayor Plazo = Mayor rendimiento
+
+
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financieros/Mercado Deuda.md",
+                "file": "CETES.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financieros/Mercado Deuda.md",
+                "file": "CETES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financieros/Mercado Deuda.md",
+                "file": "CETES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financieros/Mercado Deuda.md"
+                "file": "CETES.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "7322ff9c655fcd0c",
   "lastOpenFiles": [
-    "Forex.md",
     "Financieros/Mercado Deuda.md",
+    "Liquidez.md",
+    "CETES.md",
+    "Forex.md",
     "Bonos.md",
     "Derivados.md",
     "Capitales.md",
@@ -184,8 +186,6 @@
     "Untitled 1.md",
     "Financieros/Inversion Bursatil.md",
     "Perfil de inversion.md",
-    "BPA.md",
-    "Riesgo.md",
     "Trading Inst",
     "Portafolio",
     "Tecnico",
