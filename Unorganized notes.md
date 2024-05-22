@@ -206,3 +206,12 @@ BETA = sirve para medir que tan volatil es una empresa con referencia a su indic
 
 IPC 35
 
+Bolsas gringas -> NYSE 
+		-> NASDAQ
+		
+Bolsas Mexicanas
+		-> BMV
+		 -> BIVA
+		INPC 
+			indice nacional de precios al consumidor
+		I
