@@ -220,3 +220,6 @@ Mercado bursatil = titulos que esstan
 mercado extra bursatil = (OTC) over the counter 
 
 espacio fisico 
+
+
+blue chip
