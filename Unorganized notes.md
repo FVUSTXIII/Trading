@@ -180,3 +180,5 @@ Interactive Brockers
 Solvente tener capacidad de afrontar tus deudas sobre todo con activos
 
 ser liquido es tener el cash listo para usarse
+
+ETF indexado replica a un indice bursatil
