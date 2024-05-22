@@ -198,3 +198,6 @@ compra = long - largo - cal
 Inversion real = tangible
 
 Inversion financiera = intangible 
+
+Volatibilidad = 
+riesgo = 
