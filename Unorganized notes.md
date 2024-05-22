@@ -199,5 +199,5 @@ Inversion real = tangible
 
 Inversion financiera = intangible 
 
-Volatibilidad = 
-riesgo = 
+Volatibilidad = variacion del precio de un activo respecto a su media historica
+riesgo = Incertidumbre de saber el rendimiento que obtendras en tu inversion

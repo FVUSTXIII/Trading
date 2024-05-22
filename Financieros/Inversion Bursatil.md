@@ -21,7 +21,6 @@ La adquisición de este activo debe ofrecer una utilidad; retorno de capital, ga
 Costo de oportunidad
 
 Tiempo : 
-
 Riesgo: 
 
 [[Inversion Real]]:
