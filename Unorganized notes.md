@@ -202,7 +202,7 @@ Inversion financiera = intangible
 Volatibilidad = variacion del precio de un activo respecto a su media historica
 riesgo = Incertidumbre de saber el rendimiento que obtendras en tu inversion
 
-BETA = sirve para medir que tan volatil es una empresa con referencia a su indice de referencia.
+[[BETA]] = sirve para medir que tan volatil es una empresa con referencia a su indice de referencia.
 
 IPC 35
 
