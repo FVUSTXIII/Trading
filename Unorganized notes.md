@@ -224,4 +224,4 @@ espacio fisico
 
 blue chip
 
-Low betad
+Low betas
