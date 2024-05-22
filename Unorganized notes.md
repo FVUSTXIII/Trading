@@ -214,4 +214,9 @@ Bolsas Mexicanas
 		 -> BIVA
 		INPC 
 			indice nacional de precios al consumidor
-		I
+		IPC -> indice de precios y cotizaciones 35 empresas
+Mercado bursatil = titulos que esstan 
+
+mercado extra bursatil = (OTC) over the counter 
+
+espacio fisico 
