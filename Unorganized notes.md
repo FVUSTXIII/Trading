@@ -175,3 +175,8 @@ COBERTURA
 Interactive Brockers
 
 [[Futuros]]
+
+
+Solvente tener capacidad de afrontar tus deudas sobre todo con activos
+
+ser liquido es tener el cash listo para usarse
