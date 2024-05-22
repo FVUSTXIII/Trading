@@ -195,3 +195,6 @@ short es una venta en corto y para beneficiarnos colocamos una venta en corto
 Venta = short - corto - put
 compra = long - largo - cal
 
+Inversion real = tangible
+
+Inversion financiera = intangible 
