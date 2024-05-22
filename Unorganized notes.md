@@ -189,3 +189,9 @@ un activo subyacente puede ser
 - divisa
 - indice bursatil
 - accion
+
+short es una venta en corto y para beneficiarnos colocamos una venta en corto
+
+Venta = short - corto - put
+compra = long - largo - cal
+
