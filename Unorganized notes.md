@@ -223,3 +223,5 @@ espacio fisico
 
 
 blue chip
+
+Low betad
