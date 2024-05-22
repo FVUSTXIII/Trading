@@ -225,3 +225,5 @@ espacio fisico
 blue chip
 
 Low betas
+
+diferencia entre precio de compra y precio de venta = spread
