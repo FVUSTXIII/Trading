@@ -227,3 +227,5 @@ blue chip
 Low betas
 
 diferencia entre precio de compra y precio de venta = spread
+
+Macroeconomia = se enfoca a hablar de como los paises se estan desenvolviendo en la parte economica. 
