@@ -1,4 +1,4 @@
-Lugar donde se emiten, compran y venden acciones de empresas que cotizan en la bolsa de valores. 
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqLugar donde se emiten, compran y venden acciones de empresas que cotizan en la bolsa de valores. 
 
 Las empresas necesitan financiamiento.
 
