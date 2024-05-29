@@ -67,3 +67,5 @@ Las acciones cotizan por sectores
 Una accion tiene clave y razon social
 
 [[Acciones]]
+
+[[Fondo de Inversion]]
