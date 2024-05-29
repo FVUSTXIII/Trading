@@ -47,4 +47,19 @@ Los portafolios tienen a bajar cuando hay volatilidad en el mercado.
 
 Participantes
 
-''
+- Reguladores: 
+		CNBV; Comision Nacional Bancaria y de Valores
+		SEC: Securities and Exchange Commission
+- Bolsas de valores:
+		BMV: Bolsa Mexicana de Valores
+		NYSE: Bolsa de NY
+		NASDAQ: Bolsa de empresas de tecnologia
+- Casas de bolsa:
+		ACTINVER 
+		GBM
+	Interactive Brokers
+	TD Ameritrade
+
+Pagina de grupo BMV
+
+Las acciones cotizan por sectores 
