@@ -19,3 +19,18 @@ Características:
 * instrumentos de [[Renta variable]] 
 * Se rige por la oferta y la demanda 
 * Mercado secundario (a través de una casa de bolsa)
+
+Maneras de financiamiento de empresas:
+
+- Inversion
+- Pedir prestado
+
+Intrumentos: 
+
+- Acciones
+- Fibras
+- ETF
+
+Dividendos y plusvalia
+
+Los beneficios que obtenemos son a traves del pago de dividendo el cual es la utilidad que reparten las empresas entre el numero de 
