@@ -63,3 +63,7 @@ Participantes
 Pagina de grupo BMV
 
 Las acciones cotizan por sectores 
+
+Una accion tiene clave y razon social
+
+[[Acciones]]
