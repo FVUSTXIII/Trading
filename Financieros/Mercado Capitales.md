@@ -69,3 +69,7 @@ Una accion tiene clave y razon social
 [[Acciones]]
 
 [[Fondo de Inversion]]
+
+[[Fibra]]
+
+[[ETF]]

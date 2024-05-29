@@ -7,7 +7,9 @@ Instrumento de renta variable
 
 Instrumento de inversion que cotiza en bolsa, podemos adquirirlo o comprarlo mediante cualquier casa de bolsa y su desempeño 
 
+Instrumento hibrido de acciones y fondo de inversion
 
+Instrumento c
 
 Fondo de inversion
 
