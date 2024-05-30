@@ -13,3 +13,10 @@ Son instrumentos más complejos que son apalancados y para su operatividad debem
 Los instrumentos derivados sinteticos son parte de que se generara la crisis del 2008
 
 En estos contratos hay una fecha de vencimiento
+
+Opciones
+
+Contratos derivados celebrados entre 2 partes. Comprador y vendendor. Otorgan el derecho
+más no la obligación, de comprar o vender un subyacente a un precio y fecha determinados a cambio del pago de una prima.
+
+Opcion Ca
