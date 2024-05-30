@@ -15,3 +15,20 @@ Aqui tampoco somos dueños de nada y solo operamos por la especulacion que gener
 Apalancamiento
 
 El apalancamiento es mayor en este mercado por loq ue solo se recomienda para inversionistas arriesgados 
+
+Caracteristicas
+
+Muy liquido 
+
+Comprar y vender al instante
+
+Mercado apalancado
+
+el apalancamiento en este mercado puede llevar a perder todo tu dinero
+
+Descentralizado 
+
+No cuenta con un organo regulatorio ni camara que compence los contratos
+
+Abierto las 24hrs
+
