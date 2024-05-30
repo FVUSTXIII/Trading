@@ -9,7 +9,17 @@ Instrumento de inversion que cotiza en bolsa, podemos adquirirlo o comprarlo med
 
 Instrumento hibrido de acciones y fondo de inversion
 
-Instrumento c
+Instrumento conformado por un paquete ya armado de acciones que cotizan en la bolsa, en ocsaiones es mas accesible que el precio de las acciones y que el fondo de inversion
+
+- No solo son de acciones, tambien hay ETFs de bonos, materias primas, indices.
+
+Riesgo: Alto
+Liquidez: Alta
+Rendimiento: Variable y alto
+
+Especializados en sectores o industrias
+
+Canasta de acciones
 
 Fondo de inversion
 
