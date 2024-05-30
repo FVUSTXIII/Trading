@@ -10,3 +10,12 @@ Te permite adoptar una posicion por un valor muy superior al dinero que deposita
 
 ## **Así funciona el apalancamiento en trading**
 
+Sin embargo, hay que tener en cuenta que el apalancamiento funciona en ambas direcciones. Cuanto mayor sea el ratio de apalancamiento, cuando los precios de los activos se mueven a nuestro favor obtendremos mayores beneficios. Por otro lado, la misma cantidad de apalancamiento puede ser una pérdida si nuestras previsiones son erróneas.
+
+Para recapitular, cuando se opera con apalancamiento, el trader invierte sólo un determinado porcentaje de la posición completa. Esto varía en función de la oferta de apalancamiento del broker, que depende de las condiciones reglamentarias que cumpla, y de la relación riesgo-rendimiento que el trader acepte asumir. Cuando un trader utiliza este tipo particular de apalancamiento, se dice que está operando con margen.
+
+Los traders utilizan el apalancamiento en función de su nivel de experiencia, sus objetivos de inversión, su apetito de riesgo y el mercado subyacente en el que operan. En la mayoría de los casos, tienden a utilizar el apalancamiento de forma más agresiva, mientras que a los traders menos experimentados se les recomienda utilizar el apalancamiento con precaución. 
+
+Los [traders expertos](https://blog.monex.com.mx/mercados-financieros/administra-ahorro-patrimonial-trader) tenderán a utilizarlo lo menos posible, mientras que los que tienen un gran apetito de riesgo pueden utilizar el apalancamiento de forma flexible. Los mercados volátiles, como las acciones y los títulos, deberían negociarse con un apalancamiento mínimo, mientras que los activos menos volátiles, que no experimentan grandes fluctuaciones de precios, podrían negociarse con niveles de apalancamiento más elevados.
+
+En todos los casos, la elección de utilizar o no el apalancamiento, y la forma de aplicarlo, debe ser siempre parte de un proceso riguroso y cuidadoso.
