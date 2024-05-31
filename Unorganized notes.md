@@ -259,4 +259,4 @@ $$
 Volatilidad implicita 
 
 SPX -> 
-Quotation = precio, volumen y volatilidad (historica {} e implicita)
+Quotation = precio, volumen y volatilidad (historica posteriori es desviacion estandar e implicita a priori)
