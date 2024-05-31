@@ -32,3 +32,4 @@ No cuenta con un organo regulatorio ni camara que compence los contratos
 
 Abierto las 24hrs
 
+Se opera todo el dia debido a las sesiones como londres,  tokio, nueva york
