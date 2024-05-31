@@ -234,3 +234,4 @@ TIE: Tasa interbancaria
 
 Tasa real = T interes - inflacion
 
+ 
