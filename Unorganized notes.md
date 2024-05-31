@@ -269,3 +269,7 @@ tiingo
 AUM = Assets Under Management 
 
 cuanto dinero vale o tiene el etf
+
+Cuanto rinde normalmente? 
+-> CAGR
+compound average growth rate
