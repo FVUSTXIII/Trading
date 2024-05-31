@@ -260,3 +260,7 @@ Volatilidad implicita
 
 SPX -> 
 Quotation = precio, volumen y volatilidad (historica posteriori es desviacion estandar e implicita a priori)
+
+MAGS
+
+![[Pasted image 20240530201905.png]]
