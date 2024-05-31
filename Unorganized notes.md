@@ -234,4 +234,5 @@ TIE: Tasa interbancaria
 
 Tasa real = T interes - inflacion
 
- 
+ las opciones se utilizan para especular o para cubrir riesgos
+OTM = out of the money
