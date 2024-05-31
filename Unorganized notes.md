@@ -254,5 +254,9 @@ Preservar el capital
 Riesgo de mercado -> Beta
 
 $$
-β = COV(S,M)
+β = COV(S,M) /VAR(M)
 $$
+Volatilidad implicita 
+
+SPX -> 
+Quotation = precio, volumen y volatilidad (historica {} e implicita)
