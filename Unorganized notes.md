@@ -236,3 +236,15 @@ Tasa real = T interes - inflacion
 
  las opciones se utilizan para especular o para cubrir riesgos
 OTM = out of the money
+
+Mag7 = Magnificent 7
+
+apple 
+amazon
+google
+tsla
+nvda
+msft
+meta
+
+Market cap
