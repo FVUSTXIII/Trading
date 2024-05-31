@@ -60,3 +60,18 @@ Portafolio que puede contener
 Nosotros compramos el ETF a traves de Black Rock
 
 yo Interactive Brockers
+
+* Diversificar
+* Accesibilidad
+* Estrategias complejas
+* Analisis
+
+Referencias Futuros
+
+| Referencias | Futuros | ETF |
+| ----------- | ------- | --- |
+| Oro         | /GC     | GLD |
+| Bolsa       | /ES     | SPY |
+| CRUDO       | /CL     | USO |
+| BONOS       | /ZN     | TLT |
+| GAS NAT     | /NG     | UNG |
