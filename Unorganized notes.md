@@ -266,3 +266,6 @@ MAGS
 ![[Pasted image 20240530201905.png]]
 tiingo
 
+AUM = Assets Under Management 
+
+cuanto dinero vale o tiene el etf
