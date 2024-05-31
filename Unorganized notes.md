@@ -264,3 +264,4 @@ Quotation = precio, volumen y volatilidad (historica posteriori es desviacion es
 MAGS
 
 ![[Pasted image 20240530201905.png]]
+tiingo
