@@ -248,3 +248,11 @@ msft
 meta
 
 Market cap
+
+Preservar el capital
+
+Riesgo de mercado -> Beta
+
+$$
+β = COV(S,M)
+$$
